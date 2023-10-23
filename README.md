@@ -1,5 +1,5 @@
 # shopping-cart
-
+**Simple shopping cart website using VueJs**
 ## Project setup
 ```
 npm install
